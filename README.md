@@ -32,29 +32,22 @@ I thrive in fast-paced environments, love solving complex engineering challenges
 
 ## 🔧 Tech Stack
 
-<table>
-<tr>
-  <td><strong>Frontend</strong></td>
-  <td><strong>Backend</strong></td>
-</tr>
-<tr>
-  <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" /></td>
-  <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,mongodb,postgres" /></td>
-</tr>
-<tr>
-  <td><strong>AI/ML</strong></td>
-  <td><strong>Tools & DevOps</strong></td>
-</tr>
-<tr>
-  <td><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn" /></td>
-  <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" /></td>
-</tr>
-</table>
+#### 🖥️ Languages, Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,go" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,nextjs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 
-## 🏆 GitHub Trophies
+#### ☁️ Databases & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,supabase,aws" />
+</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujalkyal&theme=monokai&no-bg=true&column=7&margin-w=10" />
+#### ⚙️ DevOps, Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,prisma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ## 📊 GitHub Stats
@@ -63,12 +56,6 @@ I thrive in fast-paced environments, love solving complex engineering challenges
 |---|---|
 
 ---
-
-## ✨ Blog & Articles
-
-- [Why I Built My Own DNS Server in Python](https://blog.sujalkyal.dev/dns-server)
-- [From JWT to Sessions: Evolving My Auth Stack](https://blog.sujalkyal.dev/auth-stack)
-- [How I Structured My Multi-App Monorepo](https://blog.sujalkyal.dev/turborepo)
 
 ## 🤝 Let's Collaborate
 
