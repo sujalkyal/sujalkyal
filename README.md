@@ -18,12 +18,17 @@
 
 ## 👨‍💻 About Me
 
-I'm Sujal, a passionate Full Stack Developer & AI Engineer, currently pursuing my undergraduate studies. I build real-world applications, love working with scalable systems, and enjoy exploring the intersection of development and machine intelligence.
+Hey there! I'm Sujal Kyal, a passionate Full Stack Developer & AI Engineer currently pursuing a B.E. in Computer Science at Jadavpur University.
 
-- 📈 Currently growing my skills in cloud-native architectures and deep learning.
+I specialize in building production-grade full stack applications and integrating AI capabilities into real-world systems. From crafting intuitive UIs to designing scalable APIs and deploying on modern cloud platforms, I enjoy working across the stack. My recent work includes building a recruiter-facing RAG microservice using OPENAI models, developing systems that combine generative AI with relational data.
+
+I thrive in fast-paced environments, love solving complex engineering challenges, and continuously learn to improve my craft.
+
+- 🚀 Worked at NinjaHire as a Full Stack + GenAI Intern
+- 📈 Currently learning Go to build low-latency systems and exploring AI techniques for stock market prediction.
 - 🧰 Always exploring innovative project ideas to push the limits.
-- ✨ Believer in clean code, great UI/UX, and useful tech.
-- ✨ Actively looking for exciting internships & collaborations.
+- ✨ Believer in clean code and useful tech.
+- 🚀 Actively seeking impactful roles where I can learn, contribute meaningfully, and grow both personally and professionally.
 
 ## 🔧 Tech Stack
 
