@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sujalkyal"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/sujalkyal"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://sujalkyal.dev"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" /></a>
+  <a href="http://linkedin.com/in/sujal-kyal-712b9024b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/Sujal_kyal"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://sujaldev-ten.vercel.app/"><img height="50px" width="50px" src="https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=000000" /></a>
 </p>
 
 <p align="center">
