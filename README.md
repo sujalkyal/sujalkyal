@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sujalkyal"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/sujalkyal"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://sujalkyal.dev"><img src="https://skillicons.dev/icons?i=web" /></a>
+  <a href="https://sujalkyal.dev"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" /></a>
 </p>
 
 <p align="center">
