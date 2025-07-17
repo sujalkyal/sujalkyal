@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Full Stack & AI Engineer (Student) -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7D2&center=true&vCenter=true&width=450&lines=Hey+there+%F0%9F%91%8B;I'm+Sujal+Kyal;Full-Stack+%7C+AI+Engineer;Open+Source+Enthusiast;Student+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100&color=00F7D2&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B;I'm+Sujal+Kyal;Full-Stack+%7C+AI+Engineer;Open+Source+Enthusiast;Student+%7C+Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <p align="center">
